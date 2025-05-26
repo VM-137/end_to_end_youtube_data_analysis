@@ -70,7 +70,7 @@ The data also includes a category_id field, which varies between regions. To ret
 - I have used AdministratorAccess for simplicity.
 
 ### Create S3 bucket
-* Created a S3 bucker with name "de-on-youtube-raw-eu-west3-dev" on eu-west-3 region, as the name 
+* Created a S3 bucket with name "de-on-youtube-raw-eu-west3-dev" on eu-west-3 region, as the name 
 indicates.
 
 
